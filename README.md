@@ -35,8 +35,8 @@ HRTechサービスの開発
 Editor.jsを使用した独自のマークアップエディタの開発  
 採用やチームのマネジメントも行う。  
 ##### 開発
-Ruby2.7.2 Ruby on Rails6 PostgreSQL10
-Git GitHub CircleCI Docker Hroku
+Ruby 2.7.2 | Ruby on Rails 6 | PostgreSQL10  
+Git | GitHub | CircleCI | Docker | Hroku  
 
 ### 自動車業界関税減免根拠収集システム管理画面の新規開発(2019/07〜2020/10)
 #### プロジェクト概要
@@ -50,10 +50,10 @@ Octopusを使用して複数DB操作機能の開発
 大量データのデータインポート機能の開発（パフォーマンスを考慮したチューニング）  
 
 ##### 開発
-Ruby2.6.3 Ruby on Rails5.2 MySQL 5.7  
-Docker VSCode  
-AWS EC2 RDS Apache CentOS7  
-Git GitLab Backlog  
+Ruby2.6.3 | Ruby on Rails5.2 | MySQL 5.7  
+Docker | VSCode  
+AWS | EC2 | RDS | Apache | CentOS7  
+Git | GitLab | Backlog  
 	
 ### 社内コミュニケーション用Androidアプリの開発(2020/03 - 2020/7)
 #### プロジェクト概要
@@ -74,7 +74,7 @@ Kotlin
 - WAFなどを使用したセキュリティ要件を満たしたインフラコード化を行う
 ##### 開発
 Terraform
-AWS(CloudFront Route53 ACM EC2 RDS WAF S3)
+AWS(CloudFront | Route53 | ACM | EC2 | RDS | WAF | S3)
 
 ### 2010/05 - 2018/12: 北海道庁
 #### 職務
