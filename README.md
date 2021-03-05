@@ -9,6 +9,8 @@ Twitter | https://twitter.com/toshytk
 Facebook | https://www.facebook.com/profile.php?id=100028997824935
 日本語 | ネイティブ
 英語 | 日常英会話(TOEIC:505)
+免許・資格 | 普通自動車第一種免許取得  普通自動二輪免許取得
+
 ## スキル
 ### 言語
 Ruby | JavaScript | Kotlin | VBA | VBScript | ClassicASP
