@@ -21,8 +21,7 @@ VPC | S3 | Cloud Front ELB | EC2 | Route53 | IAM | RDS(MySQL|PostgreSQL) | Auror
 ### SaaS/PaaS
 GitHub | GitLab | GitLab Runnner | Backlog | CircleCI | Stripe | HubSpot | Sentry
 ### その他
-Dokcer | Terraform | nginx | unicorn | Apache | IIS
-Vim | NeoVim | AndroidStudio | RubyMine | VScode
+Dokcer | Terraform | nginx | unicorn | Apache | IIS | Vim | NeoVim | AndroidStudio | RubyMine | VScode
 
 
 ## 主な業務経歴
