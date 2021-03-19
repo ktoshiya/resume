@@ -39,7 +39,7 @@ Editor.jsを使用した独自のマークアップエディタの開発
 採用やチームのマネジメントも行う。  
 ##### 開発
 Ruby 2.7.2 | Ruby on Rails 6 | PostgreSQL10  
-Git | GitHub | CircleCI | Docker | Hroku  
+Git | GitHub | CircleCI | Docker | Heroku
 
 ### 自動車業界関税減免根拠収集システム管理画面の新規開発(2019/07〜2020/10)
 #### プロジェクト概要
